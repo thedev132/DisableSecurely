@@ -1,6 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Disable Securely!
 
-## Getting Started
+## For users:
+
+Go to this [link](https://disable.mortada.dev) and follow the instructions!
+
+## To run your own service!
 
 First, run the development server:
 
